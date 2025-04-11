@@ -1,4 +1,4 @@
-# Simple Web Browser Application
+# O99 Web Browser
 
 This project is a simple web browser application built using HTML, CSS, and JavaScript. It serves as a basic example of how to create a web browser interface.
 
